@@ -1,10 +1,5 @@
 @import 'variables';
 
-.introduction {
-  position: relative;
-  top: -125px;
-}
-
 .introduction h1,
 .introduction h2,
 .hrline {
@@ -12,5 +7,5 @@
 }
 
 .hrline {
-  border: 2px solid $gray;
+  border: 2px solid $gray-border-color;
 }

@@ -1,0 +1,11 @@
+@import 'variables';
+
+.about {
+  padding: 0 $base-padding;
+  text-align: start;
+}
+
+.about h1 {
+  margin: $base-margin 0;
+  color: $primary-color;
+}

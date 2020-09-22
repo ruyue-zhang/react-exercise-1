@@ -1,0 +1,11 @@
+@import 'variables.scss';
+
+.educations {
+  padding: 0 $base-padding;
+  margin-top: $base-margin;
+  text-align: start;
+}
+
+.educations h1 {
+  color: $primary-color;
+}

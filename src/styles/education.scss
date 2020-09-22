@@ -1,0 +1,38 @@
+@import 'variables.scss';
+
+.education {
+  margin-top: $base-margin;
+
+}
+
+.education .content,
+.education .year {
+  display: inline-block;
+}
+
+.education .year {
+  position: relative;
+  top: -15px;
+  margin-right: 50px;
+}
+
+.content {
+  background-color: $gray;
+  vertical-align: middle;
+  padding: 0 10px;
+}
+
+.content .title,
+.year p{
+  line-height: 25px;
+  font-weight: bold;
+  color: $black;
+}
+
+.content .title {
+    margin: 3px 0;
+}
+
+.content .value {
+  margin: 5px 0;
+}

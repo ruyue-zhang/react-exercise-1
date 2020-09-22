@@ -5,8 +5,8 @@ import Avatar from './components/avatar';
 class App extends Component {
   render() {
     return <main className="app">
-      <Avatar />
-    </main>;
+             <Avatar />
+           </main>;
   }
 }
 

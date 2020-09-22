@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/avatar.css';
+import '../styles/avatar.scss';
 
 const Avatar = () => {
   return (

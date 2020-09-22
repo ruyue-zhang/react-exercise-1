@@ -1,0 +1,9 @@
+.introduction {
+  position: relative;
+  top: -125px;
+}
+
+.introduction h1,
+.introduction h2 {
+  margin-top: 25px;
+}
